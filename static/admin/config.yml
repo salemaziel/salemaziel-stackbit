@@ -57,29 +57,3 @@ collections:
         label: Content
         required: false
         hint: Page content
-        
-  - name: shop
-    label: Shop
-    folder: content/shop/products
-    create: true
-    extension: md
-    slug: '{{slug}}'
-    fields:
-      - widget: string
-        name: title
-        label: Title
-        required: true
-      - widget: date
-        name: date
-        label: Date
-        required: true
-      - widget: string
-        name: description
-        label: Description
-        required: false
-      - widget: markdown
-        name: body
-        label: Content
-        required: false
-        hint: Page content
-
