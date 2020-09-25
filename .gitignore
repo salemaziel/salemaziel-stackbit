@@ -11,3 +11,8 @@ yarn.lock
 
 .history/
 /.history
+
+*.vscode/*
+
+*.vscode*
+

@@ -2,39 +2,5 @@
     "title": "Personal Blog and Portfolio for Salem Aziel",
     "author": "Salem Aziel",
     "description": "Personal Blog and Portfolio for Salem Aziel",
-    "siteUrl": "https://salemaziel.com",
-    "lang": "en",
-    "meta":[
-        {
-          "name": "description",
-          "content": "Personal Blog and Portfolio for Salem Aziel"
-        },
-        {
-          "property": "og:title",
-          "content": "Salem Aziel"
-        },
-        {
-            "property": "og:description",
-            "content": "Personal Blog and Portfolio for Salem Aziel"
-        },
-        {
-            "property": "og:type",
-            "content": "https://salemaziel.com"
-        },
-        {
-            "name": "twitter:card",
-            "content": "Personal Blog and Portfolio for Salem Aziel"
-        },
-        {
-            "name": "twitter:creator",
-            "content": "site.siteMetadata.author"
-        },
-        {
-            "name": "twitter:title",
-          "content": "Salem Aziel"
-        },
-        {
-            "name": "twitter:description",
-            "content": "Personal Blog and Portfolio for Salem Aziel"
-        }]
+    "siteUrl": "https://salemaziel.com"
 }
