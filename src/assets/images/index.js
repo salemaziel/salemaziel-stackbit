@@ -1,0 +1,26 @@
+ 
+export const Profilepic = require('./profilepic.png');
+export const Sdcoast = require('./sdcoast-1920x1438.jpg');
+export const Persona = require('./persona.png');
+export const PersonaLightShadow = require('./persona-lightshadow.png');
+export const BeachBg = require('./beachbg.jpg');
+export const CodestaffLogo = require('./codestaff-logo.jpg');
+export const FTPACAB = require('./ftp-acab.jpg');
+export const UCSB = require('./ucsb.jpg');
+export const AlwaysSunny = require('./always-sunny.jpg');
+export const Hackerman = require('./hackerman.png');
+export const Lawsdontexist = require('./lawsdontexist.jpg');
+export const Revolutionary = require('./revolutionary.jpg');
+export const WordpressLogo = require('./wordpress.png');
+export const Terminal1 = require('./terminal-1.jpg');
+export const Terminal2 = require('./terminal-2.jpg');
+export const Linuxlogo = require('./linux.png');
+export const HTML5logo = require('./html5-css-js-bootstrap.png');
+export const GatsbyReactLogos = require('./gatsby-react-logos-vectors.png');
+export const Webservices = require('./web-services.png');
+export const UsedToSmoke = require('./used-to-smoke-weed.jpg');
+export const Lakers = require('./lakers.jpg');
+export const Books = require('./books.jpg');
+export const Soccer = require('./soccer.jpg');
+export const MeStripedShirt = require('./me-striped-shirt-585x780.jpg');
+export const WhatsUpFoo = require('./whats-up-foo.png');

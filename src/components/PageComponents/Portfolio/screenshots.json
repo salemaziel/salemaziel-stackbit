@@ -1,0 +1,85 @@
+{
+	"gallery": [
+  	{
+    	"id": 0,
+      "name": "Zenith Roofing Services",
+      "desc": "Company website for Zenith Roofing Services of San Diego, CA",
+      "tags": ["ZenithRoofing", "website", "portfolio"],
+      "src": "https://mir-s3-cdn-cf.behance.net/project_modules/fs/73da0995012861.5e8d14f7502b2.png",
+      "thumb": "https://res.cloudinary.com/dexdumfqy/image/upload/v1592640947/salemaziel.com/zenithroofingservices_f2f1tm.png"
+    },
+    {
+      "id": 1,
+      "name": "Spartan Plumbing",
+      "desc": "Landing Page Website for Spartan Plumbing of San Diego, California",
+      "tags": ["Bridge", "River", "City", "Dusk", "Fog"],
+      "src": "https://res.cloudinary.com/dexdumfqy/image/upload/v1599730409/salemaziel.com/spartan-plumbing-kontact-link-screenshot_unyv2c.png",
+      "thumb": "https://res.cloudinary.com/dexdumfqy/image/upload/v1599730409/salemaziel.com/spartan-plumbing-kontact-link-screenshot_unyv2c.png"
+    },
+    {
+    	"id": 2,
+      "name": "Global Lighting Project",
+      "desc": "Website for 501(c)3 nonprofit Global Lighting Project",
+      "tags": ["City", "Skyline", "Building", "Skyscraper", "Summer"],
+      "src": "https://mir-s3-cdn-cf.behance.net/project_modules/fs/23efac92910925.5e57612e4accc.png",
+      "thumb": "https://res.cloudinary.com/dexdumfqy/image/upload/v1592641688/salemaziel.com/globallightingproject_mrv9pe.png"
+    },
+    {
+    	"id": 3,
+      "name": "LEDPac",
+      "desc": "Website for LEDpac LLC of San Diego, CA",
+      "tags": ["Forest", "Lake", "Rocks", "Nature", "Mountain"],
+      "src": "https://res.cloudinary.com/dexdumfqy/image/upload/v1594600340/salemaziel.com/ledpac-full_iassdi.png",
+      "thumb": "https://res.cloudinary.com/dexdumfqy/image/upload/v1594600887/salemaziel.com/ledpac-thumb_kkxapk.png"
+    },
+    {
+    	"id": 4,
+      "name": "Chaotic Order Music",
+      "desc": "Promotional webpage for for metal band Chaotic Order",
+      "tags": ["Sea", "Ocean", "Waves", "Surf", "Blue"],
+      "src": "https://res.cloudinary.com/dexdumfqy/image/upload/v1594600868/salemaziel.com/chaoticOrder-full_tr6jrw.png",
+      "thumb": "https://res.cloudinary.com/dexdumfqy/image/upload/v1594600608/salemaziel.com/chaoticOrder-thumb_oznapd.png"
+    },
+    {
+    	"id": 5,
+      "name": "MyGoalign",
+      "desc": "Company website for MyGoalign, a task board project management webapp for engineers",
+      "tags": ["Sunset", "Nature", "Cactus", "Desert", "Grass"],
+      "src": "https://mir-s3-cdn-cf.behance.net/project_modules/fs/605d3587003297.5daa8ed097ea7.png",
+      "thumb": "https://res.cloudinary.com/dexdumfqy/image/upload/v1594601109/salemaziel.com/mygoalign-thumb_zs2z9b.png"
+    },
+    {
+    	"id": 6,
+      "name": "CodeStaff",
+      "desc": "Company website for CodeStaff",
+      "tags": ["Branches", "Bush", "Nature", "Tree", "Leaf"],
+      "src": "https://mir-s3-cdn-cf.behance.net/project_modules/fs/902b8b83924431.5d4b5900e455e.png",
+      "thumb": "https://res.cloudinary.com/dexdumfqy/image/upload/v1594601286/salemaziel.com/codestaff-thumb_jgo64j.png"
+
+    },
+    {
+    	"id": 7,
+      "name": "Elite Care Chiropractic",
+      "desc": "Company website for Elite Care Chiropractic of Encinitas, CA",
+      "tags": ["Bridge", "River", "City", "Dusk", "Fog"],
+      "src": "https://res.cloudinary.com/dexdumfqy/image/upload/v1594601755/salemaziel.com/eliteCare-full_kwqswq.png",
+      "thumb": "https://res.cloudinary.com/dexdumfqy/image/upload/v1594601752/salemaziel.com/eliteCare-thumb_csybfl.png"
+    },
+    {
+    	"id": 8,
+      "name": "Dr. John Caravello",
+      "desc": "Personal Portfolio website for Dr. Caravello, Professor of Philosophy at Cal State Channel Islands",
+      "tags": ["Bridge", "River", "City", "Dusk", "Fog"],
+      "src": "https://res.cloudinary.com/dexdumfqy/image/upload/v1599730243/salemaziel.com/john-caravello-website-screenshot_mpujnz.png",
+      "thumb": "https://res.cloudinary.com/dexdumfqy/image/upload/v1599730243/salemaziel.com/john-caravello-website-screenshot_mpujnz.png"
+    },
+    {
+    	"id": 9,
+      "name": "White Tigers FC",
+      "desc": "Official team website for White Tigers Futbol Club Southern CA Division 1",
+      "tags": ["Hills", "Nature", "Forest", "Moutains", "Field"],
+      "src": "https://mir-s3-cdn-cf.behance.net/project_modules/fs/6678f492911785.5e5768aee812b.png",
+      "thumb": "https://res.cloudinary.com/dexdumfqy/image/upload/v1594199708/salemaziel.com/white-tigers-thumb_gvz1tc.png"
+    }
+  ]
+}
